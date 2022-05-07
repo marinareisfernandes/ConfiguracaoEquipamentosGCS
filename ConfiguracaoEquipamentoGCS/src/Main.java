@@ -24,7 +24,7 @@ public class Main {
     }
     
     public void ConfigurarEquipamento(){
-
+        System.out.println("Commit para validação do configurar equipamento");
     }
 
 }
