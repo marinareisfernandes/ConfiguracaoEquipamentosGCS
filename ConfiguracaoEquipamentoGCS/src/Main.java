@@ -4,7 +4,7 @@ public class Main {
     }
 
     public void CadastrarEquipamento(){
-
+        System.out.println("Commit referente ao cadastro de equipamentos");
     }
 
     public void EditarEquipamento(){
