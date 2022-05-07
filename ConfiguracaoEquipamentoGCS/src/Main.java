@@ -18,7 +18,11 @@ public class Main {
     public void ValidarEquipamento(){
         System.out.println("Commit para validação do equipamento cadastrado");
     }
-
+    
+    public void ListarEquipamento(){
+        System.out.println("Commit para validação do listar equipamento");
+    }
+    
     public void ConfigurarEquipamento(){
 
     }
