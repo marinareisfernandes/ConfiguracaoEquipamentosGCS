@@ -12,7 +12,7 @@ public class Main {
     }
 
     public void RemoverEquipamento(){
-
+        System.out.println("Commit referente ao remover equipamentos");
     }
 
     public void ValidarEquipamento(){
